@@ -12,4 +12,12 @@
   background-color: #dff9fb;
   font-weight: 550;
 }
+
+.underline-text {
+  text-decoration: underline;
+}
+
+.underline-text:hover {
+  color: #2ecc71;
+}
 /*# sourceMappingURL=custom_thang.css.map */
